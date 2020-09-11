@@ -44,5 +44,6 @@ https://github.com/MuriloKrominski/Open-Source-application-for-language-learning
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives the 1200 most important words in academic writing, divided into twelve sublists of 100 words each, with the most important words in Sublist 1.<br>
 https://github.com/MuriloKrominski/Open-Source-application-for-language-learning-with-AI./blob/master/4%20OPAL_written%20single%20words.pdf
 
-
+## OXFORD Data extraction:
+# IN PROGRESS.
 
