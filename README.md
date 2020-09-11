@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/MuriloKrominski/Open-Source-application-for-la
 <b>20,465 unique keywords:</b><br>
 https://raw.githubusercontent.com/MuriloKrominski/Open-Source-application-for-language-learning-with-AI./master/keywords.csv
 
-These keywords will be used to train OXFORD models.
+These keywords will be used to train and simplify the OXFORD models.
 
 ## OXFORD Database 2019 (academic use):
 
