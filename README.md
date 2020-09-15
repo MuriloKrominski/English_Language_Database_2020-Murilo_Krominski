@@ -1,6 +1,7 @@
 # Open-Source-application-for-language-learning-with-AI.
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue"/></a>
 <hr/>
+
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
 
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
@@ -17,6 +18,7 @@ About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand
 
 These keywords will be used to train and simplify the OXFORD models.
 <hr/>
+
 ## OXFORD Database 2019 (academic use):
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrase List™
