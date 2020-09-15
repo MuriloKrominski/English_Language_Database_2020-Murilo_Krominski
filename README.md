@@ -46,4 +46,6 @@ https://github.com/MuriloKrominski/Open_Source_application_for_language_learning
 
 ## OXFORD Data extraction:
 # IN PROGRESS.
+<font color="green"> Some green text </font>
+https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
 
