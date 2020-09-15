@@ -4,10 +4,6 @@
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 
-aaaaaa
-<img src="https://img.shields.io/github/followers/MuriloKrominski?">
-
-
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
 
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
