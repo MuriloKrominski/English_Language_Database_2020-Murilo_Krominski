@@ -7,10 +7,10 @@ Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>
 About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
-https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/websites.csv
+https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/websites.csv
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20,465 unique keywords:</b><br>
-https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/keywords.csv
+https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/keywords.csv
 
 These keywords will be used to train and simplify the OXFORD models.
 
@@ -20,7 +20,7 @@ These keywords will be used to train and simplify the OXFORD models.
 The Oxford Phrase List is a list of 750 common phrases from A1 to C1 level. It includes idioms, phrasal verbs, compounds, collocations, prepositional phrases and other common fixed phrases.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/0%20Oxford%20Phrase%20List.pdf
 IN PROGRESS:<br>
-https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/0%20Oxford%20Phrase%20List.csv
+https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/0%20Oxford%20Phrase%20List.csv
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
@@ -48,5 +48,5 @@ https://github.com/MuriloKrominski/Open_Source_application_for_language_learning
 
 ## OXFORD Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
-https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
+https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/Data-Oxford-Krominski.csv
 ...
