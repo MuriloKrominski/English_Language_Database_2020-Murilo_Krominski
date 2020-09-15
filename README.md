@@ -42,6 +42,7 @@ The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that toge
 <a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/Data-Oxford-Krominski.csv">raw Data-Oxford-Krominski.csv</a><br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/Data-Oxford-Krominski.csv">blob Data-Oxford-Krominski.csv</a><br>
 <hr/>
+
 ## Creation of the Database on the frequency of english keywords (written communication):
 
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
