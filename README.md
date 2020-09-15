@@ -1,6 +1,13 @@
 # Open-Source-application-for-language-learning-with-AI.
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue"/></a>
+
+<img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue">/></a>
+
 <hr/>
+<img alt="GitHub stars" src="https://img.shields.io/github/followers/MuriloKrominski?label=Follow">
+<img alt="GitHub stars" src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?label=Fork">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
+<img alt="GitHub stars" src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?label=Watch">
 
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
 
