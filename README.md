@@ -16,31 +16,31 @@ These keywords will be used to train and simplify the OXFORD models.
 
 ## OXFORD Database 2019 (academic use):
 
-# ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrase List™
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrase List™
 The Oxford Phrase List is a list of 750 common phrases from A1 to C1 level. It includes idioms, phrasal verbs, compounds, collocations, prepositional phrases and other common fixed phrases.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/0%20Oxford%20Phrase%20List.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford 3000™ by CEFR level
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/1%20The%20Oxford%203000_by%20CEFR%20level.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### he Oxford 5000™ by CEFR level
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 5000™ by CEFR level
 The Oxford 5000 is an expanded core word list for advanced learners of English. As well as the Oxford 3000, it includes an additional 2000 words for learners at B2-C1 level, which are listed here.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/2%20The%20Oxford%205000_by%20CEFR%20level.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrasal Academic Lexicon™
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives around 250 important phrases for academic speaking, grouped into 16 functional areas.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/3%20OPAL_spoken%20phrases.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrasal Academic Lexicon™
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives the 600 most important words in academic speaking, divided into six sublists of 100 words each, with the most important words in Sublist 1.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/3%20OPAL_spoken%20single%20words.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrasal Academic Lexicon™
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives around 370 important phrases for academic writing, grouped into 15 functional areas.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/4%20OPAL_written%20phrases.pdf
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrasal Academic Lexicon™
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives the 1200 most important words in academic writing, divided into twelve sublists of 100 words each, with the most important words in Sublist 1.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/4%20OPAL_written%20single%20words.pdf
 
