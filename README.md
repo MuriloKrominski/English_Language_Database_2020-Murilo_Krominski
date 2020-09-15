@@ -16,7 +16,7 @@ These keywords will be used to train and simplify the OXFORD models.
 
 ## OXFORD Database 2019 (academic use):
 
-![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrase List™
+# ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) ### The Oxford Phrase List™
 The Oxford Phrase List is a list of 750 common phrases from A1 to C1 level. It includes idioms, phrasal verbs, compounds, collocations, prepositional phrases and other common fixed phrases.<br>
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/0%20Oxford%20Phrase%20List.pdf
 
@@ -45,5 +45,5 @@ The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that toge
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/4%20OPAL_written%20single%20words.pdf
 
 ## OXFORD Data extraction:
-![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS.
+# ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS.
 https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
