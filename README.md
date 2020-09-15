@@ -49,3 +49,4 @@ https://github.com/MuriloKrominski/Open_Source_application_for_language_learning
 ## OXFORD Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
 https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
+...
