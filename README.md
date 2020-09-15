@@ -46,9 +46,6 @@ https://github.com/MuriloKrominski/Open_Source_application_for_language_learning
 
 ## OXFORD Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)# IN PROGRESS.
-# ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)# IN PROGRESS.
+# ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+)# IN PROGRESS.
 # ![#008000](https://via.placeholder.com/15/008000/000000?text=+)# IN PROGRESS.
 https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
-
-Red – FF0000 Blue – 0000FF Yellow – FFFFFF Green – 008000
-
