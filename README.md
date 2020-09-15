@@ -5,7 +5,7 @@
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 
 aaaaaa
-<img src="https://img.shields.io/github/followers/MuriloKrominski?style=social">
+<img src="https://img.shields.io/github/followers/MuriloKrominski">
 
 
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
