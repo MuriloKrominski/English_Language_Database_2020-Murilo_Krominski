@@ -22,8 +22,8 @@ These keywords will be used to train and simplify the OXFORD models.
 The Oxford Phrase List is a list of 750 common phrases from A1 to C1 level. It includes idioms, phrasal verbs, compounds, collocations, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/0%20Oxford%20Phrase%20List.pdf">0 Oxford Phrase List.pdf</a><br>
 IN PROGRESS:<br>
-<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/0%20Oxford%20Phrase%20List.csv">raw 0 Oxford Phrase List</a><br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/0%20Oxford%20Phrase%20List.csv">blob 0 Oxford Phrase List</a>
+<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/0%20Oxford%20Phrase%20List.csv">raw 0 Oxford Phrase List.csv</a><br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/0%20Oxford%20Phrase%20List.csv">blob 0 Oxford Phrase List.csv</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
