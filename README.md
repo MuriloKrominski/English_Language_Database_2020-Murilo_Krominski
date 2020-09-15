@@ -9,6 +9,12 @@
 <img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
 <img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?label=Watch">
 
+aaaaa
+
+<img src="https://img.shields.io/github/followers/MuriloKrominski?style=social">
+<img src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
+<img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
+<img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
 ![GitHub stars](https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social)
 
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
