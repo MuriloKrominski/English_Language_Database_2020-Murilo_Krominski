@@ -1,6 +1,4 @@
 # Open-Source-application-for-language-learning-with-AI.
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue"/></a>
-
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/followers/MuriloKrominski?style=social"></a>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
