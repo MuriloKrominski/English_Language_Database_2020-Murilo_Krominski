@@ -7,8 +7,8 @@ Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>
 About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
-https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/websites.csv<br>
-https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/websites.csv
+<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/websites.csv">raw websites.csv</a><br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/websites.csv">blob websites.csv</a>
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20,465 unique keywords:</b><br>
 https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/keywords.csv<br>
