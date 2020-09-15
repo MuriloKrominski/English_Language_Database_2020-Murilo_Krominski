@@ -1,20 +1,16 @@
 # Open-Source-application-for-language-learning-with-AI.
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue"/></a>
 
-<img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?logo=github&label=Stars&logoColor=blue">/></a>
-
-<hr/>
-<img src="https://img.shields.io/github/followers/MuriloKrominski?label=Follow">
-<img src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?label=Fork">
-<img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
-<img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?label=Watch">
-
-aaaaa
-
-<img src="https://img.shields.io/github/followers/MuriloKrominski?style=social">
-<img src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
-<img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
-<img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social">
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/followers/MuriloKrominski?style=social"></a>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/forks/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
+  
+  
+  
+  
+  aaaaaaaaaaa
+  
 ![GitHub stars](https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social)
 
 ## Creation of the Database on the frequency of english keywords (1 part - written communication):
