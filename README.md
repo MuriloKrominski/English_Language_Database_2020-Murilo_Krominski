@@ -45,7 +45,7 @@ The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that toge
 https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/4%20OPAL_written%20single%20words.pdf
 
 ## OXFORD Data extraction:
-# IN PROGRESS.
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `# IN PROGRESS.`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) # IN PROGRESS.
+
 https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/Data-Oxford-Krominski.csv
 
