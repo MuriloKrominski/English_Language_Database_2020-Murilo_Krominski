@@ -17,11 +17,11 @@ About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/keywords.csv">keywords.csv</a>
 These keywords will be used to train and simplify the models.
 
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 800 most common phrases
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 800 most common phrases
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
 
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 260 most common academic phrases
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 260 most common academic phrases
 A list that provide the most important words and phrases to know for academic speaking. This list gives around 260 of the most important phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/260%20most%20common%20academic%20phrases.csv">260 most common academic phrases.csv</a>
 
