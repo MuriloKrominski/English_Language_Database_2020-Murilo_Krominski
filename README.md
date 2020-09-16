@@ -4,14 +4,13 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/stars/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/watchers/MuriloKrominski/Open_Source_application_for_language_learning_with_AI.?style=social"></a>
 
-## OXFORD Database 2019 (academic use):
+## Database 2020 (academic use):
 
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrase List™
-The Oxford Phrase List is a list of 750 common phrases from A1 to C1 level. It includes idioms, phrasal verbs, compounds, collocations, prepositional phrases and other common fixed phrases.<br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/0%20Oxford%20Phrase%20List.pdf">0 Oxford Phrase List.pdf</a><br>
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 800 most common phrases
+List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 IN PROGRESS:<br>
-<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/0%20Oxford%20Phrase%20List.csv">raw 0 Oxford Phrase List.csv</a><br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/0%20Oxford%20Phrase%20List.csv">blob 0 Oxford Phrase List.csv</a>
+<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/800%20most%20common%20phrases.csv">raw 800 most common phrases.csv</a><br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">blob 800 most common phrases.csv</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
