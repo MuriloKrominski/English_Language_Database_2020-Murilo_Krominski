@@ -1,261 +1,261 @@
-most_common_phrases_for_academic
-I was going to
-we are going to
-I would like to
-I want to talk about
-I want to look at
-I want to say
-what I want to do
-I want to
-I just want to
-just going to
-going to talk about
-going to be talking about
-going to look at
-going to show you
-going to go through
-going to go into
-going to say
-I was talking about
-we were talking about
-been talking about
-we talked about
-we looked at
-we talk about
-you can look at
-be looking at
-to deal with
-interested in
-if you look at
-if you think about
-when we look at
-you can see that
-we can see
-as you can see
-so you can see
-you can see here
-you will see
-you need to know
-have to look at
-look at this
-here we have
-in terms of
-with respect to
-in relation to
-the context of
-in the case of
-from the point of view of
-when it comes to
-in the form of
-on the basis of
-to do with
-as to
-nothing to do with
-the idea is that
-the idea of
-this idea of
-the idea that
-the notion of
-the meaning of
-in the sense
-in this case
-in that case
-the question is
-the point is that
-the problem of
-the problem with
-the possibility of
-the state of
-the issue of
-the question of
-the nature of
-one of the things
-in particular
-the most important
-the importance of
-is important to
-a very important
-one of the key
-one of the most
-in other words
-as I say
-as I said
-that is to say
-what I mean by
-in a sense
-if you like
-as it were
-you might say
-in some way
-more or less
-ways in which
-the way that
-a way of
-in the way that
-in a way that
-in such a way
-in this/that way
-in the same way
-the same thing
-going to give you an example
-for example
-for instance
-such as
-an example of
-to show you
-an idea of
-a sense of
-what I mean
-a bit like
-something like
-like this
-as well as
-and so on
-and so forth
-and all the rest of it
-et cetera
-not only
-but also
-or something like that
-something to do with
-a kind of
-a sort of
-some kind of
-some sort of
-this sort of
-that kind of
-the sort of thing
-all sorts of
-all kinds of
-and things like that
-in a way
-in some ways
-to some extent
-of some kind
-or whatever
-a little bit about
-a little bit more about
-a bit more about
-the same sort of
-the sorts of
-the kinds of
-these sorts of
-the type of
-types of
-on the other hand
-on the one hand
-at the same time
-as opposed to
-rather than
-the difference between
-but in fact
-the other way round
-the relationship between
-a function of
-the role of
-according to
-involved in
-as a result
-the effects of
-what happens if
-what happens to
-one of the reasons
-the reason for
-the reason why
-because of
-so that
-in order to
-the basis of
-to see how
-to work out
-to find out
-first of all
-the first thing that
-in the first place
-at the beginning of
-at the start of
-at the end of
-by the end of
-in a moment
-at this point
-at that point
-in this course
-at this stage
-for the moment
-for a long time
-in the future
-period of time
-in a minute
-later on
-may or may not
-it seems to me that
-I think that
-I would say
-I suppose
-of course
-the fact that
-we know that
-as you know
-tend to be
-more likely to
-may well be
-you find that
-on the whole
-come to
-come back to
-go back to
-back to that
-move on to
-go on to
-so we have
-so you get
-OK so
-OK now
-all right so
-right so
-all right
-let me just
-by the way
-just to remind you
-if you remember
-to bear in mind
-to think about
-for those of you
-many of you
-most of you
-you might want to
-you might want to look at
-you will find
-you can imagine
-if you think about it
-in front of you
-at the top of
-at the bottom of
-on the/your handout
-on the board
-What does that mean?
-Why do you think
-What do you think?
-Are there any questions?
-lots of
-a lot of
-a certain amount of
-an awful lot of
-a little bit of
-a number of
-the number of
-a whole series of
-a whole range of
-a variety of
-all sorts
-a group of
-more and more
-as a whole
-the majority of
-the whole of
-the rate of
-the rate of change
-the level of
-the development of
-the process of
-at the level of
+SEQ,most_common_phrases_for_academic
+1,I was going to
+2,we are going to
+3,I would like to
+4,I want to talk about
+5,I want to look at
+6,I want to say
+7,what I want to do
+8,I want to
+9,I just want to
+10,just going to
+11,going to talk about
+12,going to be talking about
+13,going to look at
+14,going to show you
+15,going to go through
+16,going to go into
+17,going to say
+18,I was talking about
+19,we were talking about
+20,been talking about
+21,we talked about
+22,we looked at
+23,we talk about
+24,you can look at
+25,be looking at
+26,to deal with
+27,interested in
+28,if you look at
+29,if you think about
+30,when we look at
+31,you can see that
+32,we can see
+33,as you can see
+34,so you can see
+35,you can see here
+36,you will see
+37,you need to know
+38,have to look at
+39,look at this
+40,here we have
+41,in terms of
+42,with respect to
+43,in relation to
+44,the context of
+45,in the case of
+46,from the point of view of
+47,when it comes to
+48,in the form of
+49,on the basis of
+50,to do with
+51,as to
+52,nothing to do with
+53,the idea is that
+54,the idea of
+55,this idea of
+56,the idea that
+57,the notion of
+58,the meaning of
+59,in the sense
+60,in this case
+61,in that case
+62,the question is
+63,the point is that
+64,the problem of
+65,the problem with
+66,the possibility of
+67,the state of
+68,the issue of
+69,the question of
+70,the nature of
+71,one of the things
+72,in particular
+73,the most important
+74,the importance of
+75,is important to
+76,a very important
+77,one of the key
+78,one of the most
+79,in other words
+80,as I say
+81,as I said
+82,that is to say
+83,what I mean by
+84,in a sense
+85,if you like
+86,as it were
+87,you might say
+88,in some way
+89,more or less
+90,ways in which
+91,the way that
+92,a way of
+93,in the way that
+94,in a way that
+95,in such a way
+96,in this/that way
+97,in the same way
+98,the same thing
+99,going to give you an example
+100,for example
+101,for instance
+102,such as
+103,an example of
+104,to show you
+105,an idea of
+106,a sense of
+107,what I mean
+108,a bit like
+109,something like
+110,like this
+111,as well as
+112,and so on
+113,and so forth
+114,and all the rest of it
+115,et cetera
+116,not only
+117,but also
+118,or something like that
+119,something to do with
+120,a kind of
+121,a sort of
+122,some kind of
+123,some sort of
+124,this sort of
+125,that kind of
+126,the sort of thing
+127,all sorts of
+128,all kinds of
+129,and things like that
+130,in a way
+131,in some ways
+132,to some extent
+133,of some kind
+134,or whatever
+135,a little bit about
+136,a little bit more about
+137,a bit more about
+138,the same sort of
+139,the sorts of
+140,the kinds of
+141,these sorts of
+142,the type of
+143,types of
+144,on the other hand
+145,on the one hand
+146,at the same time
+147,as opposed to
+148,rather than
+149,the difference between
+150,but in fact
+151,the other way round
+152,the relationship between
+153,a function of
+154,the role of
+155,according to
+156,involved in
+157,as a result
+158,the effects of
+159,what happens if
+160,what happens to
+161,one of the reasons
+162,the reason for
+163,the reason why
+164,because of
+165,so that
+166,in order to
+167,the basis of
+168,to see how
+169,to work out
+170,to find out
+171,first of all
+172,the first thing that
+173,in the first place
+174,at the beginning of
+175,at the start of
+176,at the end of
+177,by the end of
+178,in a moment
+179,at this point
+180,at that point
+181,in this course
+182,at this stage
+183,for the moment
+184,for a long time
+185,in the future
+186,period of time
+187,in a minute
+188,later on
+189,may or may not
+190,it seems to me that
+191,I think that
+192,I would say
+193,I suppose
+194,of course
+195,the fact that
+196,we know that
+197,as you know
+198,tend to be
+199,more likely to
+200,may well be
+201,you find that
+202,on the whole
+203,come to
+204,come back to
+205,go back to
+206,back to that
+207,move on to
+208,go on to
+209,so we have
+210,so you get
+211,OK so
+212,OK now
+213,all right so
+214,right so
+215,all right
+216,let me just
+217,by the way
+218,just to remind you
+219,if you remember
+220,to bear in mind
+221,to think about
+222,for those of you
+223,many of you
+224,most of you
+225,you might want to
+226,you might want to look at
+227,you will find
+228,you can imagine
+229,if you think about it
+230,in front of you
+231,at the top of
+232,at the bottom of
+233,on the/your handout
+234,on the board
+235,What does that mean?
+236,Why do you think
+237,What do you think?
+238,Are there any questions?
+239,lots of
+240,a lot of
+241,a certain amount of
+242,an awful lot of
+243,a little bit of
+244,a number of
+245,the number of
+246,a whole series of
+247,a whole range of
+248,a variety of
+249,all sorts
+250,a group of
+251,more and more
+252,as a whole
+253,the majority of
+254,the whole of
+255,the rate of change
+256,the rate of
+257,the level of
+258,the development of
+259,the process of
+260,at the level of
