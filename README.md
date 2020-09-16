@@ -10,9 +10,8 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
 
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
-A list that provide the most important words and phrases to know for academic speaking. This list gives around 250 of the most important phrases.<br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/3%20OPAL_spoken%20phrases.pdf">3 OPAL_spoken phrases.pdf</a>
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 260 most common academic phrases
+A list that provide the most important words and phrases to know for academic speaking. This list gives around 260 of the most important phrases.<br>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
