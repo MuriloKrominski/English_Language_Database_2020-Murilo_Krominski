@@ -10,6 +10,10 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
 
+### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
+A list that provide the most important words and phrases to know for academic speaking. This list gives around 250 of the most important phrases.<br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/3%20OPAL_spoken%20phrases.pdf">3 OPAL_spoken phrases.pdf</a>
+
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/1%20The%20Oxford%203000_by%20CEFR%20level.pdf">1 The Oxford 3000_by CEFR level.pdf</a>
@@ -17,10 +21,6 @@ The Oxford 3000 is the list of the 3000 most important words to learn in English
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 5000™ by CEFR level
 The Oxford 5000 is an expanded core word list for advanced learners of English. As well as the Oxford 3000, it includes an additional 2000 words for learners at B2-C1 level, which are listed here.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/2%20The%20Oxford%205000_by%20CEFR%20level.pdf">2 The Oxford 5000_by CEFR level.pdf</a>
-
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
-The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives around 250 important phrases for academic speaking, grouped into 16 functional areas.<br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/3%20OPAL_spoken%20phrases.pdf">3 OPAL_spoken phrases.pdf</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
 The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives the 600 most important words in academic speaking, divided into six sublists of 100 words each, with the most important words in Sublist 1.<br>
