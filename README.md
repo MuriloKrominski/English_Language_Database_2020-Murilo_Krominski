@@ -11,7 +11,7 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 ### Database - Frequency of english keywords in websites:
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
 
-About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b> from the top <b>1,000,000 sites worldwide</b>.<br>
+About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.<br>
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/websites.csv">websites.csv</a>
