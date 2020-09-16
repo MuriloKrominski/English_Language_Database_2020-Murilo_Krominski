@@ -7,9 +7,6 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."><img src="https://img.shields.io/github/repo-size/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."></a>
 
 <img src="https://img.shields.io/github/release-date/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."></a>
-<img src="https://img.shields.io/github/release-date-pre/MuriloKrominski/Open_Source_application_for_language_learning_with_AI."></a>
-
-
 
 ## Database 2020 (academic use):
 
