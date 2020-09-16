@@ -8,7 +8,7 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 800 most common phrases
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">blob 800 most common phrases.csv</a>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
