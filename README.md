@@ -6,6 +6,20 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 
 ## Database 2020 (academic use):
 
+### Database - Frequency of english keywords in websites:
+
+Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database! Mistakes often made are also listed.</b>
+
+About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.
+
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/websites.csv">blob websites.csv</a>
+
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20,465 unique keywords:</b><br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/keywords.csv">blob keywords.csv</a>
+
+These keywords will be used to train and simplify the OXFORD models.
+
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 800 most common phrases
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
@@ -38,22 +52,5 @@ The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that toge
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
 <a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/Data-Oxford-Krominski.csv">raw Data-Oxford-Krominski.csv</a><br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/Data-Oxford-Krominski.csv">blob Data-Oxford-Krominski.csv</a><br>
-<hr/>
-
-## Creation of the Database on the frequency of english keywords (written communication):
-
-Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
-
-About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.
-
-![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
-<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/websites.csv">raw websites.csv</a><br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/websites.csv">blob websites.csv</a>
-
-![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20,465 unique keywords:</b><br>
-<a href="https://raw.githubusercontent.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./master/csv/keywords.csv">raw keywords.csv</a><br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/keywords.csv">blob keywords.csv</a>
-
-These keywords will be used to train and simplify the OXFORD models.
 <hr/>
 ...
