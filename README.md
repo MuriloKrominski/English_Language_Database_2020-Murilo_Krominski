@@ -9,7 +9,7 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Open_S
 ## Database 2020 (academic use):
 
 ### Database - Frequency of english keywords in websites:
-Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database! Mistakes often made are also listed.</b><br>
+Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
 About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.<br>
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>84,939 websites:</b><br>
@@ -17,6 +17,7 @@ About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand
 
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20,465 unique keywords:</b><br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/keywords.csv">keywords.csv</a>
+OBS: About the keywords, mistakes often made are also listed.<br>
 These keywords will be used to train and simplify the models.
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 800 most common phrases
