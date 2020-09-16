@@ -12,6 +12,7 @@ List of 800 most common expressions/phrases from levels A1 to C1. Includes idiom
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) 260 most common academic phrases
 A list that provide the most important words and phrases to know for academic speaking. This list gives around 260 of the most important phrases.<br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/260%20most%20common%20academic%20phrases.csv">260 most common academic phrases.csv</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
