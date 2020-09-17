@@ -68,6 +68,13 @@ A list that provide the most important words and phrases to know for academic sp
 This list presents the 700 most important words in academic speech, divided into six sublists, with the most important words in Sublist 1.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/700%20most%20common%20spoken%20academic%20words.csv">700 most common academic words.csv</a>
 
+<b>List,world,type</b><br>
+Sublist 1,action,n<br>
+Sublist 1,also,adv<br>
+...<br>
+Sublist 6,vary,v<br>
+Sublist 6,whatever,pron
+
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 1334 most important academic words (written single words)
 This list gives the 1334 most important words in academic writing, divided into twelve sublists, with the most important words in Sublist 1.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/1334%20most%20important%20academic%20words.csv">1334 most important academic words.csv</a>
