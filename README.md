@@ -38,6 +38,14 @@ Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
 
+<b>Seq,Websites</b><br>
+1,msn.com<br>
+2,tumblr.com<br>
+3,google.ca<br>
+...<br>
+84937,northumbriacommunity.org<br>
+84938,modelica.org
+
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 260 most common academic phrases (spoken phrases)
 A list that provide the most important words and phrases to know for academic speaking. This list gives around 260 of the most important phrases.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/260%20most%20common%20academic%20phrases.csv">260 most common academic phrases.csv</a>
