@@ -10,24 +10,16 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Englis
 
 ## Database 2020 (academic use):
 
-![#008000](https://via.placeholder.com/15/008000/000000?text=+) <b>20465 unique keywords</b><br>
-Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
-
-About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.<br>
-
-About the keywords, mistakes often made are also listed.<br>
-These keywords will be used to train and simplify the models.<br>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/20465 keywords.csv">20465 keywords.csv</a>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/84939 websites.csv">84939 websites.csv</a>
-
-
-### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 20465 unique keywords (from 84939 websites)
-List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
-
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 5916 most important words to learn in English
 List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
+
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 20465 unique keywords (from 84939 websites)
+Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected. <b>A huge database!</b>
+About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.<br>
+These keywords will be used to train and simplify the models.<br>
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/20465 keywords.csv">20465 keywords.csv</a>
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/84939 websites.csv">84939 websites.csv</a>
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 800 most common phrases
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
@@ -49,7 +41,7 @@ This list gives the 1334 most important words in academic writing, divided into 
 This list gives 412 important phrases for academic writing, from 15 functional areas.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases.csv</a>
 
-## OXFORD Data extraction:
+## Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/Data-Oxford-Krominski.csv">Data-Oxford-Krominski.csv</a><br>
 <hr/>
