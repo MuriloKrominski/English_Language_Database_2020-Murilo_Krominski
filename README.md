@@ -37,7 +37,6 @@ Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>
 <b>Seq,Websites</b><br>
 1,msn.com<br>
 2,tumblr.com<br>
-3,google.ca<br>
 ...<br>
 84937,northumbriacommunity.org<br>
 84938,modelica.org
@@ -57,6 +56,13 @@ C1,with the exception of
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 260 most common academic phrases (spoken phrases)
 A list that provide the most important words and phrases to know for academic speaking. This list gives around 260 of the most important phrases.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/260%20most%20common%20academic%20phrases.csv">260 most common academic phrases.csv</a>
+
+<b>SEQ,most_common_phrases_for_academic</b><br>
+1,I was going to<br>
+2,we are going to<br>
+...<br>
+259,the process of<br>
+260,at the level of
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 700 most important academic words (spoken single words)
 This list presents the 700 most important words in academic speech, divided into six sublists, with the most important words in Sublist 1.<br>
