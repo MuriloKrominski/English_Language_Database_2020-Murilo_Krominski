@@ -14,7 +14,7 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Englis
 List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
 
-<br><b>SEQ,LV,Word,Type</b><br>
+<b>SEQ,LV,Word,Type</b><br>
 1,A1,a,indefinitearticle<br>
 2,A1,about,adv<br>
 ...<br>
@@ -27,7 +27,7 @@ Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/20465 keywords.csv">20465 keywords.csv</a><br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/84939 websites.csv">84939 websites.csv</a>
 
-<br><b>A,B,C</b><br>
+<b>A,B,C</b><br>
 1,VER,provide<br>
 2,VER,take<br>
 ...<br>
