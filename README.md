@@ -15,13 +15,13 @@ List of the 5916 most important words to learn in English, from A1 to C1 level.<
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
 
 EX:<br>
-SEQ	LV	Word	Type<br>
-1	A1	a	indefinitearticle<br>
-2	A1	about	adv<br>
-3	A1	about	prep<br>
+SEQ,LV,Word,Type<br>
+1,A1,a,indefinitearticle<br>
+2,A1,about,adv<br>
+3,A1,about,prep<br>
 ...<br>
-5915	C1	yield	v<br>
-5916	C1	youngster	n
+5915,C1,yield,v<br>
+5916,C1,youngster,n
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 20465 unique keywords (from 84939 websites)
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected.<br>
