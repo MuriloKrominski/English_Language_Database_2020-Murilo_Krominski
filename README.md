@@ -79,6 +79,13 @@ Sublist 6,whatever,pron
 This list gives the 1334 most important words in academic writing, divided into twelve sublists, with the most important words in Sublist 1.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/1334%20most%20important%20academic%20words.csv">1334 most important academic words.csv</a>
 
+<b>List,world,type</b><br>
+Sublist 1,activity,n<br>
+Sublist 1,affect,v<br>
+...<br>
+Sublist 9,volume,n<br>
+Sublist 9,widespread,adj
+
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 412 most important academic phrases (written phrases)
 This list gives 412 important phrases for academic writing, from 15 functional areas.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases.csv</a>
