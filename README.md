@@ -48,7 +48,6 @@ List of 800 most common expressions/phrases from levels A1 to C1. Includes idiom
 <b>LV,Common_Expressions-Phrases</b><br>
 A1,a few<br>
 A1,good idea<br>
-A1,agree with<br>
 ...<br>
 C1,with respect to<br>
 C1,with the exception of
