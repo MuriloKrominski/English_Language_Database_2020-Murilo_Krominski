@@ -39,9 +39,9 @@ This list presents the 700 most important words in academic speech, divided into
 This list gives the 1334 most important words in academic writing, divided into twelve sublists, with the most important words in Sublist 1.<br>
 <a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/1334%20most%20important%20academic%20words.csv">1334 most important academic words.csv</a>
 
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford Phrasal Academic Lexicon™
-The Oxford Phrasal Academic Lexicon (OPAL) is a set of four word lists that together provide an essential guide to the most important words and phrases to know in the field of English for Academic Purposes (EAP). This list gives around 370 important phrases for academic writing, grouped into 15 functional areas.<br>
-<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/4%20OPAL_written%20phrases.pdf">4 OPAL_written phrases.pdf</a>
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 412 most important academic phrases (written phrases)
+This list gives 412 important phrases for academic writing, from 15 functional areas.<br>
+<a href="https://github.com/MuriloKrominski/Open_Source_application_for_language_learning_with_AI./blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases</a>
 
 ### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
 The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
