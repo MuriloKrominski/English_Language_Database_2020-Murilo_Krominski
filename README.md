@@ -23,6 +23,10 @@ About the keywords, mistakes often made are also listed.<br>
 These keywords will be used to train and simplify the models.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/20465 keywords.csv">20465 keywords.csv</a>
 
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 5916 most important words to learn in English
+List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
+
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 800 most common phrases
 List of 800 most common expressions/phrases from levels A1 to C1. Includes idioms, phrasal verbs, compounds, placements, prepositional phrases and other common fixed phrases.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/800%20most%20common%20phrases.csv">800 most common phrases.csv</a>
@@ -41,15 +45,7 @@ This list gives the 1334 most important words in academic writing, divided into 
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 412 most important academic phrases (written phrases)
 This list gives 412 important phrases for academic writing, from 15 functional areas.<br>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases</a>
-
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 3000™ by CEFR level
-The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.<br>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/1%20The%20Oxford%203000_by%20CEFR%20level.pdf">1 The Oxford 3000_by CEFR level.pdf</a>
-
-### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) The Oxford 5000™ by CEFR level
-The Oxford 5000 is an expanded core word list for advanced learners of English. As well as the Oxford 3000, it includes an additional 2000 words for learners at B2-C1 level, which are listed here.<br>
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/2%20The%20Oxford%205000_by%20CEFR%20level.pdf">2 The Oxford 5000_by CEFR level.pdf</a>
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases.csv</a>
 
 ## OXFORD Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
