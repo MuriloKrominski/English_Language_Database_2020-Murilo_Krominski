@@ -90,9 +90,15 @@ Sublist 9,widespread,adj
 This list gives 412 important phrases for academic writing, from 15 functional areas.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/412%20most%20important%20academic%20phrases.csv">412 most important academic phrases.csv</a>
 
+<b>SEQ,most_common_phrases_for_academic</b><br>
+1,in terms of<br>
+2,in relation to<br>
+...<br>
+411,he or she<br>
+412,men and women
+
 ## Data extraction:
 # ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) # IN PROGRESS:
-<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/Data-Oxford-Krominski.csv">Data-Oxford-Krominski.csv</a><br>
 <hr/>
 ...
 
