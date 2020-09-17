@@ -17,7 +17,6 @@ List of the 5916 most important words to learn in English, from A1 to C1 level.<
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 20465 unique keywords (from 84939 websites)
 Alexa (from Amazon) extracted data from the top <b>1,000,000 sites worldwide</b>, and from these, only those found in Australia, Canada, Ireland, New Zealand, United Kingdom and United States were selected.<br>
 <b>A huge database!</b> About <b>12 billion words</b> on <b>18 million web pages</b> from <b>84 thousand sites</b>.<br>
-These keywords will be used to train and simplify the models.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/20465 keywords.csv">20465 keywords.csv</a><br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/84939 websites.csv">84939 websites.csv</a>
 
