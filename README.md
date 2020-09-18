@@ -30,6 +30,8 @@ Level<br>
 20465 unique keywords (from 84939 websites)<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/DATA-KROMINSKI.csv">DATA-KROMINSKI.csv</a>
 
+![SCREENSHOT](screenshot.png)
+
 <hr/>
 
 ## Database 2020 (Fragmented):
