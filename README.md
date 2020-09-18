@@ -10,6 +10,25 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Englis
 
 ## Database 2020 (academic use):
 
+<b>Sequential numbers</b><br>
+<b>World</b><br>
+<b>World/Phrase</b><br>
+<b>Type</b><br>
+<b>British phonetics</b><br>
+<b>5916 most important words to learn in English, from A1 to C1 level</b><br>
+<b>Level</b><br>
+<b>700 most important academic words (spoken single words)</b><br>
+<b>1334 most important academic words (written single words)</b><br>
+<b>800 most common expressions/phrases from levels A1 to C1</b><br>
+<b>260 most common academic phrases (spoken phrases)</b><br>
+<b>412 most important academic phrases (written phrases)</b><br>
+<b>20465 unique keywords (from 84939 websites)</b><br>
+
+
+
+
+
+
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 5916 most important words to learn in English
 List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/csv/5916%20most%20important%20words%20to%20learn%20in%20English.csv">5916 most important words to learn in English.csv</a>
