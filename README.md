@@ -11,7 +11,7 @@ This new Repository has: <a href="https://github.com/MuriloKrominski/English_Lan
 ## Database 2020 (academic use):
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) DATABASE with the most important words/phrases to improve your English
-Almost 20 thousand exclusive words / phrases, ordered in order of importance to improve a fluent English vocabulary.
+Almost <b>20 thousand</b> exclusive words / phrases, ordered in order of importance to improve a fluent English vocabulary.
 <br>Developed by Murilo Krominski as a date for another Open Source Project, released for anyone to use or improve.<br>
 
 <b>CSV columns:</b><br>
