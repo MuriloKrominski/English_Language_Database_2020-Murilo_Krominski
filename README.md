@@ -10,20 +10,27 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Englis
 
 ## Database 2020 (academic use):
 
-<b>Sequential numbers</b><br>
-<b>World</b><br>
-<b>World/Phrase</b><br>
-<b>Type</b><br>
-<b>British phonetics</b><br>
-<b>5916 most important words to learn in English, from A1 to C1 level</b><br>
-<b>Level</b><br>
-<b>700 most important academic words (spoken single words)</b><br>
-<b>1334 most important academic words (written single words)</b><br>
-<b>800 most common expressions/phrases from levels A1 to C1</b><br>
-<b>260 most common academic phrases (spoken phrases)</b><br>
-<b>412 most important academic phrases (written phrases)</b><br>
-<b>20465 unique keywords (from 84939 websites)</b><br>
+### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) DATABASE with the most important words/phrases to improve your English
+Almost 20 thousand exclusive words / phrases, ordered in order of importance to improve a fluent English vocabulary.
+<br>Developed by Murilo Krominski as a date for another Open Source Project, released for anyone to use or improve.<br>
+
+<b>CSV columns:</b><br>
+Sequential numbers<br>
+World<br>
+World/Phrase<br>
+Type<br>
+British phonetics</b><br>
+5916 most important words to learn in English, from A1 to C1 level<br>
+Level<br>
+700 most important academic words (spoken single words)<br>
+1334 most important academic words (written single words)<br>
+800 most common expressions/phrases from levels A1 to C1<br>
+260 most common academic phrases (spoken phrases)<br>
+412 most important academic phrases (written phrases)<br>
+20465 unique keywords (from 84939 websites)<br>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/DATA-KROMINSKI.csv">DATA-KROMINSKI.csv</a>
+
+## Database 2020 (Fragmented):
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 5916 most important words to learn in English
 List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
