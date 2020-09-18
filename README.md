@@ -23,11 +23,7 @@ This new Repository has only: <a href="https://github.com/MuriloKrominski/Englis
 <b>260 most common academic phrases (spoken phrases)</b><br>
 <b>412 most important academic phrases (written phrases)</b><br>
 <b>20465 unique keywords (from 84939 websites)</b><br>
-
-
-
-
-
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski/blob/master/DATA-KROMINSKI.csv">DATA-KROMINSKI.csv</a>
 
 ### ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 5916 most important words to learn in English
 List of the 5916 most important words to learn in English, from A1 to C1 level.<br>
