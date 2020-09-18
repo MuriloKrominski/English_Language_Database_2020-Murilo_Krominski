@@ -1,5 +1,5 @@
 # English_Language_Database_2020-Murilo_Krominski
-This new Repository has only: <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/followers/MuriloKrominski?style=social"></a>
+This new Repository has: <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/followers/MuriloKrominski?style=social"></a>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/forks/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski?style=social"></a>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/stars/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski?style=social"></a>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/watchers/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski?style=social"></a>
