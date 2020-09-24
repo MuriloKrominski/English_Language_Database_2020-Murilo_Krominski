@@ -6,7 +6,7 @@ This new Repository has: <a href="https://github.com/MuriloKrominski/English_Lan
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/last-commit/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"></a>
 <a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/repo-size/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"></a>
 
-<img src="https://img.shields.io/github/release-date/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"></a>
+<a href="https://github.com/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"><img src="https://img.shields.io/github/release-date/MuriloKrominski/English_Language_Database_2020-Murilo_Krominski"></a>
 
 ## Database 2020 (academic use):
 
